@@ -1,3 +1,3 @@
-module github.com/0xE232FE/anko
+module github.com/mattn/anko
 
 go 1.13
